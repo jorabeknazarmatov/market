@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+#navbar{
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    background-color: red;
+}
+nav ul li{
+    list-style-type: none;
+}
